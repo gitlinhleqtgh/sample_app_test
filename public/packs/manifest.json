@@ -1,0 +1,24 @@
+{
+  "application.js": "/packs/js/application-0b07967153a413be8307.js",
+  "application.js.map": "/packs/js/application-0b07967153a413be8307.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-0b07967153a413be8307.js"
+      ],
+      "js.map": [
+        "/packs/js/application-0b07967153a413be8307.js.map"
+      ]
+    },
+    "micropost": {
+      "js": [
+        "/packs/js/micropost-1ae69c2ecca166617d47.js"
+      ],
+      "js.map": [
+        "/packs/js/micropost-1ae69c2ecca166617d47.js.map"
+      ]
+    }
+  },
+  "micropost.js": "/packs/js/micropost-1ae69c2ecca166617d47.js",
+  "micropost.js.map": "/packs/js/micropost-1ae69c2ecca166617d47.js.map"
+}

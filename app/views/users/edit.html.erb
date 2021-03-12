@@ -1,0 +1,5 @@
+<% provide(:button_text, t("btn_save")) %>
+<h1>Editing User</h1>
+<%= render "form", user: @user %>
+<%= link_to t("show"), @user %> |
+<%= link_to t("back"), users_path %>

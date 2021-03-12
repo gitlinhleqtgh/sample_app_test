@@ -1,0 +1,7 @@
+<h1><%= t "static.home.logo" %></h1>
+<p>Hi<%= @user.name %></p>
+<p>
+  <%= t "welcome_user"%>
+  <%= t "message_active" %>
+</p>
+<%= edit_account_activation_url(@user.activation_token, email: @user.email) %>

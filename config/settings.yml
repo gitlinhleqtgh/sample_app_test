@@ -1,0 +1,11 @@
+size: 50
+user:
+  email:
+    default: "linhleqtgh@gmail.com"
+    layout: "mailer"
+    maxlength: 225
+size_content: 140
+page:
+    limit: 10
+image:
+  resize_to_limit: 500

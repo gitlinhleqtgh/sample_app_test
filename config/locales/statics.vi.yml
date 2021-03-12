@@ -1,0 +1,25 @@
+vi:
+  static:
+    home:
+      logo: "ứng dụng mẫu"
+      home: "Nhà"
+      help: "Trợ giúp"
+      login: "Đăng nhập"
+      text_home_page: "Đây là trang chủ của"
+      text_home_title: "chào mừng bạn đã đến với ứng dụng Mẫu"
+      base_title: "Ứng dụng mẫu hướng dẫn Ruby on Rails"
+      ruby_link: "Hướng dẫn sử dụng Ruby on Rails"
+      sigup_now: "đăng ký ngay"
+      link_ruby: "https://www.ruby-lang.org/vi/"
+      to_vi: "Tiếng vệt"
+      to_en: "Tiếng anh"
+      view_profile: "Xem hồ sơ của tôi"
+      micropost: "Bài đăng của người dùng"
+    help:
+      title: "Trợ giúp"
+      text_help_page: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
+      text_help_ruby: "Để nhận trợ giúp về ứng dụng mẫu này, hãy xem"
+      help_page: "Trang trợ giúp Hướng dẫn về Rails"
+      rails_tutorial: "Hướng dẫn sử dụng Ruby on Rails"
+      help_page_link: "http://www.railstutorial.org/help"
+      rails_tutorial_link: "http://www.railstutorial.org/book"

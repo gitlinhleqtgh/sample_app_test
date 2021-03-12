@@ -1,0 +1,7 @@
+<h1><%= t("mailer.email_message") %></h1>
+<p><%= t("mailer.email_say") %> <%= @user.name %> </p>
+<p>
+  <%= t("mailer.email_content") %>
+</p>
+<%= link_to t("mailer.activate"), edit_account_activation_url(id:
+  @user.activation_token, email: @user.email) %>
